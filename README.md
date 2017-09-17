@@ -15,7 +15,7 @@
 * npm start
 
 ## Backend
-* cd api-project
+* cd React-webpack-project
 
 * npm install
 
