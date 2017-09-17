@@ -70,7 +70,7 @@ fetchValue(){
 <div>
 	<span>{this.state.active}</span>
 	<button onClick={this.fetchValue} disabled={this.state.active}>Fetch Data</button>
-   </div>
+</div>
 ```
 
 Pour des fins démonstratives , j’ai fais un setTimeout  pour prolonger la durée de la requête d’une seconde afin de bien voir le temps de chargement.
