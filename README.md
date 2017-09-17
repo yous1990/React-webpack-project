@@ -3,23 +3,23 @@
 >React-webpack-project
 
 ## Installation
-*git clone "https://github.com/yous1990/api-project.git"
+* git clone "https://github.com/yous1990/api-project.git"
 
-*cd api-project
+* cd api-project
 
 ## Frontend
-*cd webapp
+* cd webapp
 
-*npm install
+* npm install
 
-*npm start
+* npm start
 
 ## Backend
-*cd api-project
+* cd api-project
 
-*npm install
+* npm install
 
-*npm start
+* npm start
 
 ## Détails
 
