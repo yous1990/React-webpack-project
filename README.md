@@ -5,7 +5,7 @@
 ## Installation
 * git clone "https://github.com/yous1990/api-project.git"
 
-* cd api-project
+* cd React-webpack-project
 
 ## Frontend
 * cd webapp
